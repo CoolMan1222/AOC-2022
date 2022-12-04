@@ -2,7 +2,7 @@
 
 ## Status 
 
-| Day | Code              | Task                                               | Star 1 | Star 2 |
+| Day | Code              | Task         asdasd                                      | Star 1 | Star 2 |
 | --- | ----------------- | -------------------------------------------------- | ------ | ------ |
 | 1   | [Day1](src/Day1/) | [Day1 Task](https://adventofcode.com/2022/day/1)   | ⭐     | ⭐     |
 | 2   | [Day2](src/Day2/) | [Day2 Task](https://adventofcode.com/2022/day/2)   | ⭐     | ⭐     |
