@@ -6,8 +6,8 @@
 | --- | ----------------- | -------------------------------------------------- | ------ | ------ |
 | 1   | [Day1](src/Day1/) | [Day1 Task](https://adventofcode.com/2022/day/1)   | ⭐     | ⭐     |
 | 2   | [Day2](src/Day2/) | [Day2 Task](https://adventofcode.com/2022/day/2)   | ⭐     | ⭐     |
-| 3   | [Day3]()          | [Day3 Task](https://adventofcode.com/2022/day/3)   |        |        |
-| 4   | [Day4]()          | [Day4 Task](https://adventofcode.com/2022/day/4)   |        |        |
+| 3   | [Day3](src/Day3/) | [Day3 Task](https://adventofcode.com/2022/day/3)   |        |        |
+| 4   | [Day4](src/Day4/) | [Day4 Task](https://adventofcode.com/2022/day/4)   | ⭐     | ⭐     |
 | 5   | [Day5]()          | [Day5 Task](https://adventofcode.com/2022/day/5)   |        |        |
 | 6   | [Day6]()          | [Day6 Task](https://adventofcode.com/2022/day/6)   |        |        |
 | 7   | [Day7]()          | [Day7 Task](https://adventofcode.com/2022/day/7)   |        |        |
